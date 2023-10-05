@@ -1,0 +1,400 @@
+Run 1:
+Solution: [15, 13, 16, 5, 3, 8, 10, 2, 9, 20, 18, 1, 12, 19, 6, 11, 7, 14, 4, 17] with 0 clashes
+Execution Time: 0.2773876190185547 seconds
+
+Run 2:
+Solution: [7, 16, 13, 5, 14, 8, 19, 2, 6, 17, 1, 11, 9, 3, 18, 20, 15, 10, 12, 4] with 0 clashes
+Execution Time: 0.7294735908508301 seconds
+
+Run 3:
+Solution: [6, 10, 13, 15, 1, 18, 20, 17, 4, 11, 9, 2, 5, 3, 8, 16, 14, 12, 7, 19] with 0 clashes
+Execution Time: 0.963238000869751 seconds
+
+Run 4:
+Solution: [15, 5, 18, 13, 4, 19, 11, 6, 17, 3, 12, 8, 2, 20, 9, 16, 14, 1, 10, 7] with 0 clashes
+Execution Time: 2.035688877105713 seconds
+
+Run 5:
+Solution: [3, 15, 11, 18, 5, 7, 16, 13, 20, 2, 9, 6, 17, 1, 4, 12, 10, 8, 14, 19] with 0 clashes
+Execution Time: 4.61927056312561 seconds
+
+Run 6:
+Solution: [14, 12, 15, 5, 7, 4, 18, 11, 2, 17, 19, 1, 10, 6, 9, 20, 16, 13, 3, 8] with 0 clashes
+Execution Time: 0.4132568836212158 seconds
+
+Run 7:
+Solution: [7, 19, 10, 15, 17, 5, 9, 16, 14, 4, 6, 3, 13, 18, 12, 2, 20, 11, 1, 8] with 0 clashes
+Execution Time: 0.8790924549102783 seconds
+
+Run 8:
+Solution: [18, 16, 4, 8, 12, 17, 13, 5, 2, 6, 20, 14, 1, 19, 15, 11, 7, 10, 3, 9] with 0 clashes
+Execution Time: 3.7753586769104004 seconds
+
+Run 9:
+Solution: [14, 19, 10, 18, 6, 11, 16, 2, 7, 9, 3, 20, 15, 17, 12, 4, 1, 8, 5, 13] with 0 clashes
+Execution Time: 0.555370569229126 seconds
+
+Run 10:
+Solution: [7, 20, 14, 8, 5, 18, 9, 6, 17, 19, 16, 11, 2, 4, 10, 3, 13, 15, 12, 1] with 0 clashes
+Execution Time: 0.9934558868408203 seconds
+
+Run 11:
+Solution: [8, 11, 1, 15, 7, 19, 3, 16, 14, 4, 10, 18, 2, 6, 12, 17, 5, 13, 9, 20] with 0 clashes
+Execution Time: 0.561976432800293 seconds
+
+Run 12:
+Solution: [2, 14, 7, 4, 13, 20, 16, 1, 5, 15, 9, 19, 8, 3, 18, 6, 11, 17, 10, 12] with 0 clashes
+Execution Time: 1.35984206199646 seconds
+
+Run 13:
+Solution: [13, 6, 2, 19, 5, 1, 8, 17, 15, 3, 16, 10, 7, 4, 18, 12, 14, 20, 11, 9] with 0 clashes
+Execution Time: 0.964961051940918 seconds
+
+Run 14:
+Solution: [9, 5, 8, 11, 20, 17, 2, 10, 13, 19, 1, 4, 14, 7, 15, 12, 3, 6, 16, 18] with 0 clashes
+Execution Time: 0.8569192886352539 seconds
+
+Run 15:
+Solution: [18, 6, 19, 1, 7, 5, 13, 15, 9, 3, 16, 20, 2, 17, 10, 12, 4, 8, 11, 14] with 0 clashes
+Execution Time: 0.35790514945983887 seconds
+
+Run 16:
+Solution: [16, 11, 5, 7, 9, 19, 3, 14, 6, 20, 10, 12, 18, 15, 1, 4, 2, 8, 17, 13] with 0 clashes
+Execution Time: 0.4509141445159912 seconds
+
+Run 17:
+Solution: [12, 17, 9, 14, 10, 1, 3, 20, 11, 4, 19, 13, 16, 18, 6, 15, 7, 5, 8, 2] with 0 clashes
+Execution Time: 0.9838700294494629 seconds
+
+Run 18:
+Solution: [9, 12, 18, 3, 6, 13, 10, 20, 11, 5, 16, 1, 19, 2, 8, 14, 7, 4, 15, 17] with 0 clashes
+Execution Time: 1.4288837909698486 seconds
+
+Run 19:
+Solution: [11, 14, 2, 10, 19, 4, 12, 1, 16, 18, 6, 9, 5, 17, 15, 20, 3, 8, 13, 7] with 0 clashes
+Execution Time: 0.5100219249725342 seconds
+
+Run 20:
+Solution: [10, 14, 4, 2, 13, 6, 17, 5, 1, 12, 15, 19, 7, 20, 18, 3, 8, 11, 9, 16] with 0 clashes
+Execution Time: 0.7127437591552734 seconds
+
+Run 21:
+Solution: [7, 1, 6, 8, 17, 14, 20, 13, 9, 3, 18, 2, 4, 11, 16, 10, 19, 5, 15, 12] with 0 clashes
+Execution Time: 0.37949252128601074 seconds
+
+Run 22:
+Solution: [7, 16, 11, 1, 8, 6, 9, 2, 19, 17, 15, 3, 18, 10, 4, 14, 12, 5, 20, 13] with 0 clashes
+Execution Time: 0.28954029083251953 seconds
+
+Run 23:
+Solution: [16, 11, 5, 12, 9, 1, 18, 14, 19, 2, 8, 6, 13, 17, 20, 4, 15, 3, 10, 7] with 0 clashes
+Execution Time: 1.1732678413391113 seconds
+
+Run 24:
+Solution: [19, 13, 11, 7, 3, 1, 16, 20, 9, 17, 5, 14, 12, 10, 4, 6, 18, 15, 2, 8] with 1 clashes
+Execution Time: 10.048694610595703 seconds
+
+Run 25:
+Solution: [16, 5, 7, 15, 11, 14, 6, 17, 19, 1, 4, 2, 10, 12, 9, 18, 13, 3, 8, 20] with 0 clashes
+Execution Time: 0.7627828121185303 seconds
+
+Run 26:
+Solution: [7, 18, 8, 11, 16, 6, 19, 10, 4, 14, 5, 2, 9, 3, 12, 15, 20, 1, 17, 13] with 0 clashes
+Execution Time: 0.5111033916473389 seconds
+
+Run 27:
+Solution: [18, 12, 10, 13, 6, 9, 1, 14, 7, 2, 19, 17, 15, 11, 3, 5, 16, 8, 4, 20] with 0 clashes
+Execution Time: 0.3540611267089844 seconds
+
+Run 28:
+Solution: [9, 20, 14, 8, 15, 7, 19, 1, 5, 13, 16, 6, 2, 11, 17, 3, 12, 10, 18, 4] with 0 clashes
+Execution Time: 2.2842907905578613 seconds
+
+Run 29:
+Solution: [6, 9, 19, 1, 14, 20, 18, 10, 5, 3, 12, 4, 2, 17, 15, 11, 7, 16, 13, 8] with 0 clashes
+Execution Time: 0.37099337577819824 seconds
+
+Run 30:
+Solution: [14, 2, 6, 9, 12, 17, 15, 18, 5, 1, 13, 4, 7, 11, 3, 20, 16, 19, 8, 10] with 0 clashes
+Execution Time: 1.8111984729766846 seconds
+
+Run 31:
+Solution: [18, 12, 8, 20, 7, 10, 3, 15, 9, 16, 19, 1, 4, 6, 13, 11, 14, 17, 2, 5] with 0 clashes
+Execution Time: 0.6754202842712402 seconds
+
+Run 32:
+Solution: [4, 11, 20, 10, 5, 18, 9, 7, 16, 1, 19, 8, 6, 3, 12, 17, 15, 13, 2, 14] with 0 clashes
+Execution Time: 3.6451141834259033 seconds
+
+Run 33:
+Solution: [7, 11, 2, 18, 13, 6, 10, 1, 19, 4, 9, 17, 3, 16, 12, 5, 8, 14, 20, 15] with 0 clashes
+Execution Time: 0.6650018692016602 seconds
+
+Run 34:
+Solution: [14, 4, 7, 5, 20, 16, 12, 6, 18, 10, 2, 9, 19, 17, 3, 1, 11, 8, 15, 13] with 0 clashes
+Execution Time: 0.7703800201416016 seconds
+
+Run 35:
+Solution: [7, 9, 13, 2, 4, 20, 15, 17, 11, 5, 12, 16, 6, 3, 18, 8, 1, 14, 19, 10] with 0 clashes
+Execution Time: 0.4286026954650879 seconds
+
+Run 36:
+Solution: [14, 2, 19, 12, 4, 7, 11, 13, 3, 16, 9, 5, 20, 17, 10, 8, 6, 1, 15, 18] with 1 clashes
+Execution Time: 10.605587482452393 seconds
+
+Run 37:
+Solution: [15, 12, 19, 7, 13, 2, 6, 1, 20, 14, 8, 3, 18, 9, 17, 10, 4, 16, 11, 5] with 0 clashes
+Execution Time: 0.85823655128479 seconds
+
+Run 38:
+Solution: [18, 10, 7, 9, 6, 3, 20, 15, 8, 5, 17, 12, 16, 4, 1, 14, 19, 2, 13, 11] with 0 clashes
+Execution Time: 0.5352439880371094 seconds
+
+Run 39:
+Solution: [17, 12, 6, 11, 18, 10, 13, 2, 20, 15, 1, 5, 9, 16, 4, 8, 14, 3, 7, 19] with 0 clashes
+Execution Time: 0.9195539951324463 seconds
+
+Run 40:
+Solution: [12, 8, 6, 19, 2, 16, 9, 17, 10, 18, 7, 3, 1, 13, 15, 20, 4, 11, 5, 14] with 0 clashes
+Execution Time: 4.144244432449341 seconds
+
+Run 41:
+Solution: [13, 6, 1, 18, 2, 11, 14, 3, 17, 9, 5, 8, 16, 20, 15, 7, 19, 10, 12, 4] with 0 clashes
+Execution Time: 0.45926690101623535 seconds
+
+Run 42:
+Solution: [5, 8, 17, 14, 12, 19, 6, 20, 2, 13, 16, 9, 1, 15, 10, 3, 7, 4, 11, 18] with 1 clashes
+Execution Time: 10.582521200180054 seconds
+
+Run 43:
+Solution: [2, 14, 17, 3, 16, 9, 7, 1, 19, 12, 15, 6, 20, 10, 4, 13, 8, 5, 11, 18] with 0 clashes
+Execution Time: 4.476008653640747 seconds
+
+Run 44:
+Solution: [13, 7, 3, 12, 16, 9, 5, 18, 2, 19, 17, 11, 14, 10, 4, 6, 8, 20, 1, 15] with 0 clashes
+Execution Time: 1.5152146816253662 seconds
+
+Run 45:
+Solution: [2, 13, 18, 14, 4, 1, 12, 15, 3, 6, 17, 10, 16, 11, 5, 8, 19, 9, 7, 20] with 0 clashes
+Execution Time: 2.062241554260254 seconds
+
+Run 46:
+Solution: [17, 6, 10, 12, 18, 8, 2, 7, 15, 20, 1, 5, 9, 14, 4, 19, 3, 16, 13, 11] with 0 clashes
+Execution Time: 0.45899033546447754 seconds
+
+Run 47:
+Solution: [13, 9, 17, 5, 10, 1, 20, 11, 3, 19, 7, 14, 4, 18, 15, 8, 6, 16, 12, 2] with 0 clashes
+Execution Time: 1.0874650478363037 seconds
+
+Run 48:
+Solution: [1, 8, 16, 9, 17, 2, 18, 3, 12, 7, 4, 14, 11, 15, 5, 20, 6, 10, 13, 19] with 0 clashes
+Execution Time: 0.2263636589050293 seconds
+
+Run 49:
+Solution: [5, 18, 4, 10, 8, 16, 19, 13, 9, 7, 1, 20, 15, 2, 14, 3, 6, 12, 17, 11] with 0 clashes
+Execution Time: 0.5341830253601074 seconds
+
+Run 50:
+Solution: [14, 11, 6, 15, 7, 5, 17, 8, 13, 4, 16, 19, 10, 20, 2, 12, 18, 3, 1, 9] with 0 clashes
+Execution Time: 0.6973919868469238 seconds
+
+Run 51:
+Solution: [10, 20, 6, 15, 9, 2, 13, 16, 8, 3, 1, 19, 5, 14, 17, 11, 4, 12, 7, 18] with 0 clashes
+Execution Time: 1.5142507553100586 seconds
+
+Run 52:
+Solution: [8, 19, 12, 7, 9, 16, 13, 10, 4, 15, 1, 20, 6, 2, 14, 17, 11, 18, 5, 3] with 0 clashes
+Execution Time: 0.28111791610717773 seconds
+
+Run 53:
+Solution: [6, 15, 10, 14, 9, 4, 8, 19, 2, 13, 17, 20, 3, 11, 7, 18, 12, 1, 5, 16] with 0 clashes
+Execution Time: 2.022641658782959 seconds
+
+Run 54:
+Solution: [14, 6, 18, 10, 19, 7, 3, 15, 11, 1, 5, 20, 13, 4, 2, 9, 12, 16, 8, 17] with 0 clashes
+Execution Time: 0.7969455718994141 seconds
+
+Run 55:
+Solution: [9, 4, 18, 3, 14, 16, 13, 19, 2, 7, 12, 6, 1, 17, 11, 20, 8, 10, 5, 15] with 0 clashes
+Execution Time: 0.6448380947113037 seconds
+
+Run 56:
+Solution: [9, 12, 18, 13, 2, 6, 19, 14, 4, 17, 5, 11, 16, 1, 20, 8, 3, 7, 15, 10] with 0 clashes
+Execution Time: 1.0113399028778076 seconds
+
+Run 57:
+Solution: [16, 2, 9, 12, 15, 18, 4, 6, 10, 13, 20, 1, 17, 7, 14, 11, 19, 8, 3, 5] with 0 clashes
+Execution Time: 5.375161409378052 seconds
+
+Run 58:
+Solution: [9, 13, 3, 8, 14, 5, 19, 1, 12, 4, 7, 18, 20, 15, 17, 11, 6, 10, 16, 2] with 0 clashes
+Execution Time: 1.357154130935669 seconds
+
+Run 59:
+Solution: [15, 4, 7, 9, 12, 3, 17, 14, 18, 8, 10, 20, 1, 5, 16, 19, 11, 2, 6, 13] with 0 clashes
+Execution Time: 2.9295079708099365 seconds
+
+Run 60:
+Solution: [16, 12, 5, 18, 10, 4, 19, 15, 9, 1, 8, 20, 3, 6, 14, 17, 11, 13, 2, 7] with 0 clashes
+Execution Time: 1.087566614151001 seconds
+
+Run 61:
+Solution: [3, 12, 8, 19, 13, 6, 14, 17, 20, 9, 2, 4, 7, 18, 11, 1, 10, 16, 5, 15] with 0 clashes
+Execution Time: 8.435731410980225 seconds
+
+Run 62:
+Solution: [18, 9, 17, 8, 13, 16, 20, 5, 15, 6, 10, 3, 1, 19, 2, 14, 11, 7, 4, 12] with 0 clashes
+Execution Time: 2.8567512035369873 seconds
+
+Run 63:
+Solution: [8, 10, 16, 14, 19, 2, 4, 13, 18, 12, 6, 3, 17, 15, 1, 9, 11, 5, 7, 20] with 0 clashes
+Execution Time: 0.27089953422546387 seconds
+
+Run 64:
+Solution: [13, 8, 12, 3, 20, 16, 2, 15, 9, 11, 1, 5, 7, 18, 4, 14, 19, 6, 10, 17] with 0 clashes
+Execution Time: 0.40826845169067383 seconds
+
+Run 65:
+Solution: [1, 18, 16, 5, 8, 11, 4, 15, 7, 19, 17, 20, 12, 10, 6, 2, 9, 13, 3, 14] with 0 clashes
+Execution Time: 1.441690444946289 seconds
+
+Run 66:
+Solution: [13, 9, 12, 15, 1, 14, 5, 10, 8, 20, 2, 17, 3, 7, 18, 11, 6, 19, 16, 4] with 0 clashes
+Execution Time: 0.692188024520874 seconds
+
+Run 67:
+Solution: [6, 19, 9, 12, 17, 4, 1, 15, 5, 14, 20, 7, 2, 13, 3, 18, 8, 11, 16, 10] with 0 clashes
+Execution Time: 0.18022871017456055 seconds
+
+Run 68:
+Solution: [18, 12, 6, 8, 13, 7, 19, 17, 2, 5, 9, 11, 15, 3, 20, 16, 14, 4, 10, 1] with 0 clashes
+Execution Time: 0.33876466751098633 seconds
+
+Run 69:
+Solution: [16, 3, 10, 17, 5, 9, 12, 14, 19, 8, 20, 2, 7, 11, 1, 18, 13, 6, 4, 15] with 0 clashes
+Execution Time: 0.7281656265258789 seconds
+
+Run 70:
+Solution: [16, 13, 7, 9, 15, 19, 14, 1, 3, 6, 11, 20, 10, 5, 18, 2, 12, 8, 17, 4] with 0 clashes
+Execution Time: 1.1624562740325928 seconds
+
+Run 71:
+Solution: [10, 12, 7, 20, 13, 1, 18, 5, 8, 16, 4, 19, 14, 2, 15, 6, 11, 3, 17, 9] with 0 clashes
+Execution Time: 0.5355386734008789 seconds
+
+Run 72:
+Solution: [19, 13, 4, 18, 1, 5, 17, 11, 14, 7, 2, 16, 20, 12, 15, 8, 10, 3, 6, 9] with 1 clashes
+Execution Time: 10.420873641967773 seconds
+
+Run 73:
+Solution: [8, 17, 15, 13, 9, 4, 18, 14, 3, 6, 19, 11, 16, 1, 20, 5, 10, 2, 7, 12] with 0 clashes
+Execution Time: 1.24147629737854 seconds
+
+Run 74:
+Solution: [14, 20, 1, 12, 5, 7, 17, 13, 3, 16, 18, 8, 6, 11, 2, 15, 19, 9, 4, 10] with 0 clashes
+Execution Time: 1.469452142715454 seconds
+
+Run 75:
+Solution: [12, 18, 11, 7, 3, 20, 8, 4, 19, 14, 10, 17, 5, 16, 1, 9, 6, 15, 13, 2] with 0 clashes
+Execution Time: 1.5138862133026123 seconds
+
+Run 76:
+Solution: [1, 16, 2, 13, 8, 14, 9, 20, 5, 17, 4, 7, 18, 11, 19, 6, 15, 12, 10, 3] with 0 clashes
+Execution Time: 0.41556811332702637 seconds
+
+Run 77:
+Solution: [12, 19, 5, 16, 11, 6, 10, 2, 14, 20, 15, 3, 1, 4, 7, 9, 18, 13, 8, 17] with 0 clashes
+Execution Time: 0.4868030548095703 seconds
+
+Run 78:
+Solution: [15, 8, 6, 14, 3, 18, 7, 9, 13, 1, 20, 11, 2, 19, 17, 4, 12, 10, 16, 5] with 0 clashes
+Execution Time: 0.8263509273529053 seconds
+
+Run 79:
+Solution: [10, 14, 7, 19, 4, 12, 18, 6, 17, 5, 1, 9, 16, 3, 20, 8, 11, 2, 15, 13] with 0 clashes
+Execution Time: 4.987815618515015 seconds
+
+Run 80:
+Solution: [18, 5, 10, 6, 20, 2, 11, 19, 14, 7, 3, 12, 8, 1, 16, 4, 15, 17, 9, 13] with 0 clashes
+Execution Time: 6.423080921173096 seconds
+
+Run 81:
+Solution: [9, 6, 15, 7, 19, 13, 2, 5, 18, 10, 17, 4, 1, 8, 11, 14, 16, 20, 12, 3] with 0 clashes
+Execution Time: 0.48995208740234375 seconds
+
+Run 82:
+Solution: [14, 18, 5, 10, 8, 13, 16, 3, 1, 6, 15, 20, 12, 7, 2, 17, 11, 4, 19, 9] with 0 clashes
+Execution Time: 7.3991875648498535 seconds
+
+Run 83:
+Solution: [18, 8, 15, 12, 10, 5, 7, 4, 16, 20, 13, 1, 14, 9, 2, 19, 11, 3, 17, 6] with 0 clashes
+Execution Time: 0.4338953495025635 seconds
+
+Run 84:
+Solution: [5, 14, 11, 3, 15, 2, 16, 9, 6, 1, 18, 12, 19, 7, 4, 10, 20, 13, 17, 8] with 0 clashes
+Execution Time: 0.3046870231628418 seconds
+
+Run 85:
+Solution: [12, 6, 16, 14, 17, 3, 7, 4, 15, 13, 9, 5, 2, 19, 1, 11, 8, 20, 18, 10] with 0 clashes
+Execution Time: 7.14097261428833 seconds
+
+Run 86:
+Solution: [14, 5, 8, 12, 19, 4, 1, 18, 11, 7, 3, 13, 20, 9, 15, 6, 10, 17, 2, 16] with 0 clashes
+Execution Time: 1.9755403995513916 seconds
+
+Run 87:
+Solution: [10, 14, 9, 6, 8, 2, 7, 16, 19, 5, 12, 17, 4, 11, 3, 20, 15, 1, 18, 13] with 0 clashes
+Execution Time: 0.4754526615142822 seconds
+
+Run 88:
+Solution: [6, 15, 12, 2, 9, 14, 3, 20, 16, 13, 10, 7, 19, 4, 1, 18, 5, 11, 8, 17] with 0 clashes
+Execution Time: 6.121201276779175 seconds
+
+Run 89:
+Solution: [19, 4, 13, 10, 5, 2, 8, 15, 20, 18, 14, 9, 17, 3, 7, 11, 16, 1, 12, 6] with 0 clashes
+Execution Time: 0.3359375 seconds
+
+Run 90:
+Solution: [10, 20, 5, 9, 2, 17, 11, 7, 19, 4, 18, 12, 3, 6, 16, 14, 8, 1, 15, 13] with 0 clashes
+Execution Time: 0.6056206226348877 seconds
+
+Run 91:
+Solution: [7, 13, 15, 17, 4, 14, 9, 5, 3, 20, 11, 2, 18, 12, 19, 8, 10, 1, 6, 16] with 0 clashes
+Execution Time: 2.3878252506256104 seconds
+
+Run 92:
+Solution: [3, 18, 12, 7, 16, 11, 6, 8, 15, 4, 1, 13, 20, 5, 19, 2, 10, 14, 17, 9] with 0 clashes
+Execution Time: 1.9236199855804443 seconds
+
+Run 93:
+Solution: [5, 14, 11, 3, 12, 4, 1, 18, 9, 15, 17, 8, 10, 16, 6, 19, 7, 13, 20, 2] with 0 clashes
+Execution Time: 1.469749927520752 seconds
+
+Run 94:
+Solution: [15, 10, 1, 20, 5, 9, 13, 18, 16, 11, 3, 17, 6, 4, 19, 7, 14, 12, 8, 2] with 0 clashes
+Execution Time: 3.796200752258301 seconds
+
+Run 95:
+Solution: [11, 16, 8, 13, 2, 17, 15, 20, 7, 4, 14, 1, 19, 10, 5, 3, 12, 9, 18, 6] with 0 clashes
+Execution Time: 0.9109992980957031 seconds
+
+Run 96:
+Solution: [7, 10, 4, 14, 18, 20, 9, 13, 16, 1, 6, 8, 2, 17, 19, 3, 11, 15, 5, 12] with 0 clashes
+Execution Time: 3.1980323791503906 seconds
+
+Run 97:
+Solution: [16, 11, 8, 3, 15, 17, 9, 1, 6, 18, 7, 2, 20, 12, 4, 19, 5, 13, 10, 14] with 0 clashes
+Execution Time: 0.3084733486175537 seconds
+
+Run 98:
+Solution: [1, 7, 4, 15, 11, 19, 17, 6, 12, 5, 2, 20, 9, 16, 3, 13, 10, 8, 18, 14] with 0 clashes
+Execution Time: 0.7029011249542236 seconds
+
+Run 99:
+Solution: [7, 16, 2, 13, 18, 4, 19, 3, 12, 20, 5, 1, 9, 14, 17, 8, 10, 15, 6, 11] with 0 clashes
+Execution Time: 4.0988383293151855 seconds
+
+Run 100:
+Solution: [12, 6, 18, 11, 2, 16, 13, 4, 7, 15, 3, 20, 14, 17, 9, 1, 19, 5, 10, 8] with 0 clashes
+Execution Time: 2.404707670211792 seconds
+
