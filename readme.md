@@ -21,9 +21,11 @@ This Python program utilizes a genetic algorithm to tackle the N-Queens problem.
 
 4. Navigate to the directory where the extracted program files are located.
 
-5. Run the program with the following command: python3 genetic_algorithm_nqueens.py
+5. Run the program with the following command:
 
-6. Follow the prompts to enter the parameters for the genetic algorithm:
+   python3 genetic_algorithm_nqueens.py
+
+7. Follow the prompts to enter the parameters for the genetic algorithm:
 - Board size (positive integer): Size of the chessboard (number of queens).
 - Population size (positive integer): Size of the population of solutions.
 - Number of max generations (positive integer): Maximum number of generations.
